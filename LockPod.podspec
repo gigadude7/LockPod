@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LockPod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LockPod.'
+  s.summary          = 'Provides a prebuilt lockscreen with PIN and fingerprint options'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,13 +18,17 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+	What does it do? 	- Provides a prebuilt lock screen that is easy to integrate. 
+	Why did I write it? 	- I was tired of having to rewrite the same lock screen, and though other people may also want this. 
+	What is the focus? 	- To provide the user with an easily implementable lock screen. 
+	
+ 
                        DESC
 
   s.homepage         = 'https://github.com/gigadude7/LockPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'gigadude7' => 'you@example.com' }
+  s.author           = { 'gigadude7' => ‘granthc14@gmail.com’ }
   s.source           = { :git => 'https://github.com/gigadude7/LockPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
