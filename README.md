@@ -22,7 +22,7 @@ pod "LockPod"
 
 ## Author
 
-gigadude7, you@example.com
+Grant Cordle, granthc14@gmail.com
 
 ## License
 
