@@ -1,0 +1,22 @@
+{
+  "name": "LockPod",
+  "version": "0.1.0",
+  "summary": "A short description of LockPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gigadude7/LockPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gigadude7": "you@example.com"
+  },
+  "source": {
+    "git": "https://github.com/gigadude7/LockPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LockPod/Classes/**/*"
+}

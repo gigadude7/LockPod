@@ -1,0 +1,16 @@
+PODS:
+  - LockPod (0.1.0)
+
+DEPENDENCIES:
+  - LockPod (from `../`)
+
+EXTERNAL SOURCES:
+  LockPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LockPod: 872e4c1e7fcf8ea02760f8e08b82db74faf5d2cb
+
+PODFILE CHECKSUM: aad523e1e756b05db766cfdb79440a39d1197095
+
+COCOAPODS: 1.2.1

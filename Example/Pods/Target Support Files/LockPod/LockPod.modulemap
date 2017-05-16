@@ -1,0 +1,6 @@
+framework module LockPod {
+  umbrella header "LockPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
