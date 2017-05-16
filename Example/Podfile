@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LockPod_Example' do
+  pod 'LockPod', :path => '../'
+
+  target 'LockPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
